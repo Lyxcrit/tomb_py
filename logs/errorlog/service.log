@@ -1,0 +1,21 @@
+21.Aug 2019 20:51:12: d :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:51:56: d :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:52:13: d :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:54:27: d :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:55:03: d :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:56:15: d :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:57:24: d :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:57:40: d :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:58:42: [ :<x_wmi: Unexpected COM Error (-2147217375, 'OLE error 0x80041021', None, None)>
+21.Aug 2019 20:59:01: dc01.cyber.lab :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 20:59:39: dc01.cyber.lab,dc02.cyber.lab :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 21:00:00: dc01.cyber.lab,dc02.cyber.lab :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 21:00:48: dc01.cyber.lab :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 21:01:30: dc01.cyber.lab :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 21:03:42: dc01.cyber.lab :'ascii' codec can't encode character u'\u2013' in position 420: ordinal not in range(128)
+21.Aug 2019 21:03:47: dc02.cyber.lab :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+21.Aug 2019 21:11:43: dc01.cyber.lab :'ascii' codec can't encode character u'\u2013' in position 420: ordinal not in range(128)
+21.Aug 2019 21:11:48: dc02.cyber.lab :<x_wmi: Unexpected COM Error (-2147023174, 'The RPC server is unavailable.', None, None)>
+22.Aug 2019 13:00:37: dc01.cyber.lab :name 'wmi' is not defined
+22.Aug 2019 13:01:09: dc01.cyber.lab :name 'wmi' is not defined
+22.Aug 2019 13:01:16: dc01.cyber.lab :name 'wmi' is not defined
